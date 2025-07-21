@@ -1,0 +1,8 @@
+1 reference
+@baseUrl = https://devlocal.test/api/products
+1 reference
+@cType = application/json
+
+### Get all products
+Get {{baseUrl}}
+Content-Type: {{cType}}
